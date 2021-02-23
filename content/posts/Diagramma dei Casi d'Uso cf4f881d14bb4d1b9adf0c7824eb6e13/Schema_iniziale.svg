@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Schema iniziale.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="10.7422in" height="6.96271in"
+		viewBox="0 0 773.441 501.315" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.16666em;font-weight:bold}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {marker-end:url(#mrkr1-12);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st6 {font-size:1em}
+		.st7 {fill:#92cddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {fill:none;stroke:#000000;stroke-dasharray:15,9;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-12" class="st5" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<g id="shape7-1" v:mID="7" v:groupContext="shape" transform="translate(291.051,-449.791)">
+			<title>Foglio.7</title>
+			<desc>Tipo di diagramma UML</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="475.803" width="184.26" height="51.0236"/>
+			<rect x="0" y="450.291" width="184.252" height="51.0236" class="st1"/>
+			<text x="22.51" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Tipo di diagramma UML</text>		</g>
+		<g id="shape8-4" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(381.152,-449.791)">
+			<title>Connettore dinamico</title>
+			<path d="M7.09 501.31 L7.09 529.66" class="st3"/>
+		</g>
+		<g id="shape9-7" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(388.239,-421.445)">
+			<title>Connettore dinamico.9</title>
+			<path d="M0 501.31 L-196.4 501.31 L-196.4 518.32" class="st4"/>
+		</g>
+		<g id="shape13-13" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(388.239,-421.445)">
+			<title>Connettore dinamico.13</title>
+			<path d="M0 501.31 L196.4 501.31 L196.4 518.32" class="st4"/>
+		</g>
+		<g id="shape14-18" v:mID="14" v:groupContext="shape" transform="translate(99.7126,-353.413)">
+			<title>Foglio.14</title>
+			<desc>Diagrammi strutturali</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="475.803" width="184.26" height="51.0236"/>
+			<rect x="0" y="450.291" width="184.252" height="51.0236" class="st1"/>
+			<text x="29.13" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagrammi strutturali</text>		</g>
+		<g id="shape15-21" v:mID="15" v:groupContext="shape" transform="translate(489.476,-353.413)">
+			<title>Foglio.15</title>
+			<desc>Diagrammi comportamentali</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="475.803" width="184.26" height="51.0236"/>
+			<rect x="0" y="450.291" width="184.252" height="51.0236" class="st1"/>
+			<text x="8.01" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagrammi comportamentali</text>		</g>
+		<g id="shape16-24" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(184.752,-353.413)">
+			<title>Connettore dinamico.16</title>
+			<path d="M7.09 501.31 L7.09 532.5" class="st4"/>
+		</g>
+		<g id="shape17-29" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(578.768,-353.413)">
+			<title>Connettore dinamico.17</title>
+			<path d="M7.09 501.31 L7.09 532.5" class="st4"/>
+		</g>
+		<g id="shape18-34" v:mID="18" v:groupContext="shape" transform="translate(0.5,-102.547)">
+			<title>Foglio.18</title>
+			<rect x="0" y="281.63" width="382.677" height="219.685" class="st1"/>
+		</g>
+		<g id="shape19-36" v:mID="19" v:groupContext="shape" transform="translate(14.6732,-257.035)">
+			<title>Foglio.19</title>
+			<desc>Diagramma della struttura composita</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="6.57" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma della struttura<v:newlineChar/><tspan
+						x="53.32" dy="1.2em" class="st6">composita</tspan></text>		</g>
+		<g id="shape20-40" v:mID="20" v:groupContext="shape" transform="translate(198.925,-257.035)">
+			<title>Foglio.20</title>
+			<desc>Diagramma di distribuzione</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="42.87" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di <tspan
+						x="45.66" dy="1.2em" class="st6">distribuzione</tspan></text>		</g>
+		<g id="shape21-44" v:mID="21" v:groupContext="shape" transform="translate(14.6732,-190.421)">
+			<title>Foglio.21</title>
+			<desc>Diagramma del pacchetto</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.189" cy="475.803" width="96.38" height="51.0236"/>
+			<rect x="0" y="450.291" width="96.378" height="51.0236" class="st1"/>
+			<text x="14.5" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma <tspan
+						x="8.64" dy="1.2em" class="st6">del pacchetto</tspan></text>		</g>
+		<g id="shape22-48" v:mID="22" v:groupContext="shape" transform="translate(128.059,-190.421)">
+			<title>Foglio.22</title>
+			<desc>Diagramma del profilo</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="475.803" width="127.56" height="51.0236"/>
+			<rect x="0" y="450.291" width="127.559" height="51.0236" class="st1"/>
+			<text x="19.5" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma del <tspan
+						x="44.36" dy="1.2em" class="st6">profilo</tspan></text>		</g>
+		<g id="shape23-52" v:mID="23" v:groupContext="shape" transform="translate(269.791,-190.421)">
+			<title>Foglio.23</title>
+			<desc>Diagramma di classe</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.189" cy="475.803" width="96.38" height="51.0236"/>
+			<rect x="0" y="450.291" width="96.378" height="51.0236" class="st1"/>
+			<text x="7.44" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di <tspan
+						x="30.98" dy="1.2em" class="st6">classe</tspan></text>		</g>
+		<g id="shape24-56" v:mID="24" v:groupContext="shape" transform="translate(16.0906,-119.555)">
+			<title>Foglio.24</title>
+			<desc>Diagramma degli oggetti</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="12.23" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma degli oggetti</text>		</g>
+		<g id="shape25-59" v:mID="25" v:groupContext="shape" transform="translate(198.925,-119.555)">
+			<title>Foglio.25</title>
+			<desc>Diagramma dei componenti</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="39.35" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma dei <tspan
+						x="48.53" dy="1.2em" class="st6">componenti</tspan></text>		</g>
+		<g id="shape26-63" v:mID="26" v:groupContext="shape" transform="translate(390.264,-176.248)">
+			<title>Foglio.26</title>
+			<rect x="0" y="356.217" width="382.677" height="145.098" class="st1"/>
+		</g>
+		<g id="shape27-65" v:mID="27" v:groupContext="shape" transform="translate(400.185,-257.035)">
+			<title>Foglio.27</title>
+			<desc>Diagramma di attività</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="20.35" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di attività</text>		</g>
+		<g id="shape28-68" v:mID="28" v:groupContext="shape" transform="translate(595.776,-257.035)">
+			<title>Foglio.28</title>
+			<desc>Diagramma dei Casi d’Uso</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st7"/>
+			<text x="7.82" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma dei Casi d’Uso</text>		</g>
+		<g id="shape29-71" v:mID="29" v:groupContext="shape" transform="translate(400.185,-190.421)">
+			<title>Foglio.29</title>
+			<desc>Diagramma degli stati</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="19.91" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma degli stati</text>		</g>
+		<g id="shape30-74" v:mID="30" v:groupContext="shape" transform="translate(595.776,-190.421)">
+			<title>Foglio.30</title>
+			<desc>Diagramma di interazione</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<path d="M0 501.31 L167.24 501.31 L167.24 450.29 L0 450.29 L0 501.31 Z" class="st8"/>
+			<text x="8.37" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di interazione</text>		</g>
+		<g id="shape31-77" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(668.059,-190.421)">
+			<title>Connettore dinamico.31</title>
+			<path d="M7.09 501.31 L7.09 543.83" class="st4"/>
+		</g>
+		<g id="shape32-82" v:mID="32" v:groupContext="shape" transform="translate(390.264,-0.5)">
+			<title>Foglio.32</title>
+			<rect x="0" y="356.217" width="382.677" height="145.098" class="st1"/>
+		</g>
+		<g id="shape34-84" v:mID="34" v:groupContext="shape" transform="translate(400.185,-85.5394)">
+			<title>Foglio.34</title>
+			<desc>Diagramma di sequenza</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="13.94" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di sequenza</text>		</g>
+		<g id="shape36-87" v:mID="36" v:groupContext="shape" transform="translate(595.776,-85.5394)">
+			<title>Foglio.36</title>
+			<desc>Diagramma di comunicazione</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="42.87" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di <tspan
+						x="40.07" dy="1.2em" class="st6">comunicazione</tspan></text>		</g>
+		<g id="shape37-91" v:mID="37" v:groupContext="shape" transform="translate(595.776,-14.6732)">
+			<title>Foglio.37</title>
+			<desc>Diagramma dei tempi</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="20.64" y="480" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma dei tempi</text>		</g>
+		<g id="shape38-94" v:mID="38" v:groupContext="shape" transform="translate(400.185,-14.6732)">
+			<title>Foglio.38</title>
+			<desc>Diagramma di panoramica delle interazioni</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="83.622" cy="475.803" width="167.25" height="51.0236"/>
+			<rect x="0" y="450.291" width="167.244" height="51.0236" class="st1"/>
+			<text x="6.81" y="471.6" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Diagramma di panoramica <tspan
+						x="36.69" dy="1.2em" class="st6">delle interazioni</tspan></text>		</g>
+	</g>
+</svg>

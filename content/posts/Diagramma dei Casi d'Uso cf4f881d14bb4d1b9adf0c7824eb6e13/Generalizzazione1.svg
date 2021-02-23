@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Generalizzazione1.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.15562in" height="0.738302in"
+		viewBox="0 0 443.205 53.1578" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.16666em}
+		.st3 {font-size:1em}
+		.st4 {marker-end:url(#mrkr14-15);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend14">
+			<path d="M 3 -1 L 0 0 L 3 1 L 3 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr14-15" class="st5" v:arrowType="14" v:arrowSize="2" v:setback="10.56" refX="-10.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend14" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.5,-0.5)">
+			<title>Use Case</title>
+			<desc>Archivia record paziente (file cartaceo)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="75.9299" cy="28.5117" width="151.86" height="49.2921"/>
+			<ellipse cx="75.9299" cy="28.5117" rx="75.9299" ry="24.646" class="st1"/>
+			<text x="6.83" y="24.31" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Archivia record paziente <tspan
+						x="36.68" dy="1.2em" class="st3">(file cartaceo)</tspan></text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(232.467,-0.5)">
+			<title>Use Case.2</title>
+			<desc>Archivia record paziente (file computerizzato)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="105.119" cy="27.0789" width="210.24" height="52.1578"/>
+			<ellipse cx="105.119" cy="27.0789" rx="105.119" ry="26.0789" class="st1"/>
+			<text x="23.48" y="22.88" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Archivia record paziente (file <tspan
+						x="58.6" dy="1.2em" class="st3">computerizzato)</tspan></text>		</g>
+		<g id="group3-9" transform="translate(232.493,-32.869)" v:mID="3" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-1.0547118733939E-15):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953631):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(1.6653345369377E-16):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(2.8199663978446E-14):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.8199663978445E-14):32"/>
+				<v:ud v:nameU="Name" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ID" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(-0.016696677759219):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-9.1607059442222E-05):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(-0.016696677759217):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-9.160705944361E-05):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-3.1361061645055):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-3.1361061645055):32"/>
+			</v:userDefs>
+			<title>Generalizzazione</title>
+			<g id="shape3-10" v:mID="3" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 60.02 L-69.58 60.41" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

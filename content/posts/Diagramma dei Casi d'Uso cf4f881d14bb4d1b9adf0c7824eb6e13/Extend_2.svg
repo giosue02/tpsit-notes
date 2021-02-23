@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Extend 2.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.45308in" height="0.539297in"
+		viewBox="0 0 392.622 38.8294" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.16666em}
+		.st3 {marker-end:url(#mrkr1-13);stroke:#000000;stroke-dasharray:7,5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st4 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st5 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st6 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-13" class="st4" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.5,-2.40683)">
+			<title>Use Case</title>
+			<desc>Acquista prodotto</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.1339" cy="21.8215" width="114.27" height="34.0157"/>
+			<ellipse cx="57.1339" cy="21.8215" rx="57.1339" ry="17.0079" class="st1"/>
+			<text x="5.58" y="26.02" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Acquista prodotto</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(278.736,-2.40683)">
+			<title>Use Case.2</title>
+			<desc>Registra account</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="21.8215" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="21.8215" rx="56.6929" ry="17.0079" class="st1"/>
+			<text x="9.38" y="26.02" class="st2" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Registra account</text>		</g>
+		<g id="group3-7" transform="translate(278.736,-12.3281)" v:mID="3" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;Estendi&#62;&#62;)"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-1.6653345369377E-16):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953632):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-6.6613381477509E-16):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(2.8199663978446E-14):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.8199663978443E-14):32"/>
+				<v:ud v:nameU="Name" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ID" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;extend&#62;&#62;)"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(-0.034160100572397):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(-0.034160100572406):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(3.1415926535898):32"/>
+			</v:userDefs>
+			<title>Estendi</title>
+			<desc>&#60;&#60;extend&#62;&#62;</desc>
+			<g id="shape3-8" v:mID="3" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="-81.9842" cy="31.7428" width="68.4" height="22.4037"/>
+				<path d="M0 31.74 L-163.97 31.74" class="st3"/>
+				<rect v:rectContext="textBkgnd" x="-110.821" y="24.543" width="57.6744" height="14.4001" class="st5"/>
+				<text x="-110.82" y="35.34" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;extend&#62;&#62;</text>			</g>
+		</g>
+	</g>
+</svg>
