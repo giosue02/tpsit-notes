@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Attore.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.11806in" height="1.32694in"
+		viewBox="0 0 152.5 95.5394" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st3 {fill:#000000;font-family:Calibri;font-size:1.16666em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(59.2421,-24.4232)">
+			<title>Attore</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 95.54 L6.8 60.11 L6.8 74.28 L0 74.28 L0 45.93 L3.4 42.39 L30.61 42.39 L34.02 45.93 L34.02 74.28 L27.21
+						 74.28 L27.21 60.11 L27.21 95.54 L17.01 95.54 L17.01 67.19 L17.01 95.54 L6.8 95.54 ZM24.09 31.76 A7.08661
+						 7.08661 -180 1 0 9.92 31.76 A7.08661 7.08661 -180 1 0 24.09 31.76 Z" class="st1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape" transform="translate(0.25,-0.25)">
+			<title>Foglio.2</title>
+			<desc>Attore</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="85.5394" width="152" height="20"/>
+			<rect x="0" y="75.5394" width="152" height="20" class="st2"/>
+			<text x="57.65" y="89.74" class="st3" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Attore</text>		</g>
+	</g>
+</svg>

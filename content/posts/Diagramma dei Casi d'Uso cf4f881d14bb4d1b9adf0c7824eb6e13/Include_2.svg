@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Include 2.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.77376in" height="2.2639in"
+		viewBox="0 0 559.711 163" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st4 {fill:#000000;font-family:Calibri;font-size:1.16666em}
+		.st5 {font-size:1em}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {marker-end:url(#mrkr1-26);stroke:#000000;stroke-dasharray:7,5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st10 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-26" class="st8" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Connettore" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(59.2421,-91.8843)">
+			<title>Attore</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 163 L6.8 127.57 L6.8 141.74 L0 141.74 L0 113.39 L3.4 109.85 L30.61 109.85 L34.02 113.39 L34.02 141.74 L27.21
+						 141.74 L27.21 127.57 L27.21 163 L17.01 163 L17.01 134.65 L17.01 163 L6.8 163 ZM24.09 99.22 A7.08661 7.08661
+						 -180 1 0 9.92 99.22 A7.08661 7.08661 -180 1 0 24.09 99.22 Z" class="st1"/>
+		</g>
+		<g id="group2-3" transform="translate(93.2579,-120.631)" v:mID="2" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(2.2204460492503E-16):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953631):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(9.3998879928152E-15):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0):32"/>
+				<v:ud v:nameU="Name" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ID" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.022433149197749):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(0.00012678363271235):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.022433149197747):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(0.00012678363271257):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(0.0056515597414975):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(0.0056515597414981):32"/>
+			</v:userDefs>
+			<title>Associazione</title>
+			<g id="shape2-4" v:mID="2" v:groupContext="groupContent" v:layerMember="0">
+				<path d="M0 156.22 L107.68 155.61" class="st2"/>
+			</g>
+		</g>
+		<g id="shape7-7" v:mID="7" v:groupContext="shape" transform="translate(200.93,-106.516)">
+			<title>Use Case</title>
+			<desc>Prende in prestito libri</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="59.5777" cy="141.157" width="119.16" height="43.686"/>
+			<ellipse cx="59.5777" cy="141.157" rx="59.5777" ry="21.843" class="st3"/>
+			<text x="8.42" y="136.96" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Prende in prestito<v:newlineChar/><tspan
+						x="48.64" dy="1.2em" class="st5">libri</tspan></text>		</g>
+		<g id="shape8-11" v:mID="8" v:groupContext="shape" transform="translate(0.25,-67.7111)">
+			<title>Foglio.8</title>
+			<desc>Studente</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="153" width="152" height="20"/>
+			<rect x="0" y="143" width="152" height="20" class="st6"/>
+			<text x="50.1" y="157.2" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Studente</text>		</g>
+		<g id="shape9-14" v:mID="9" v:groupContext="shape" transform="translate(388.596,-58.5379)">
+			<title>Use Case.9</title>
+			<desc>Controlla libri riservati</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.3071" cy="141.157" width="170.62" height="43.686"/>
+			<ellipse cx="85.3071" cy="141.157" rx="85.3071" ry="21.843" class="st3"/>
+			<text x="21.89" y="145.36" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Controlla libri riservati</text>		</g>
+		<g id="shape10-17" v:mID="10" v:groupContext="shape" transform="translate(206.7,-0.5)">
+			<title>Use Case.10</title>
+			<desc>Controlla prestito</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="145.993" width="113.39" height="34.0157"/>
+			<ellipse cx="56.6929" cy="145.993" rx="56.6929" ry="17.0079" class="st3"/>
+			<text x="6.64" y="150.19" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Controlla prestito</text>		</g>
+		<g id="group11-20" transform="translate(311.296,-116.94)" v:mID="11" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;Includi&#62;&#62;)"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-1.0547118733939E-15):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953632):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(1.6653345369377E-16):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(2.8199663978446E-14):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.8199663978443E-14):32"/>
+				<v:ud v:nameU="Name" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ID" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;include&#62;&#62;)"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.020521816832938):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.0046139276032964):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.020521816832937):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-0.0046139276032964):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-0.22115297703845):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-0.22115297703843):32"/>
+			</v:userDefs>
+			<title>Includi</title>
+			<desc>&#60;&#60;include&#62;&#62;</desc>
+			<g id="shape11-21" v:mID="11" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.2524" cy="174.074" width="70.1" height="22.4037"/>
+				<path d="M0 163 L98.5 185.15" class="st7"/>
+				<rect v:rectContext="textBkgnd" x="19.5656" y="166.874" width="59.3737" height="14.4001" class="st9"/>
+				<text x="19.57" y="177.67" class="st10" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;include&#62;&#62;</text>			</g>
+		</g>
+		<g id="group16-29" transform="translate(254.926,-106.517)" v:mID="16" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;Includi&#62;&#62;)"/>
+				<v:ud v:nameU="ShowMulti" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Identifying" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.02362204795363):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-1.0547118733939E-15):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.023622047953632):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(1.6653345369377E-16):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(2.8199663978446E-14):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-2.8199663978443E-14):32"/>
+				<v:ud v:nameU="Name" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ID" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="RelationshipName" v:prompt="" v:val="VT4(&#60;&#60;include&#62;&#62;)"/>
+				<v:ud v:nameU="DXBegin" v:prompt="" v:val="VT0(0.00039037538878972):1"/>
+				<v:ud v:nameU="DYBegin" v:prompt="" v:val="VT0(-0.015000314912515):1"/>
+				<v:ud v:nameU="DXEnd" v:prompt="" v:val="VT0(0.00039037538878883):1"/>
+				<v:ud v:nameU="DYEnd" v:prompt="" v:val="VT0(-0.015000314912491):1"/>
+				<v:ud v:nameU="BeginAngle" v:prompt="" v:val="VT0(-1.544777720082):32"/>
+				<v:ud v:nameU="EndAngle" v:prompt="" v:val="VT0(-1.544777720082):32"/>
+			</v:userDefs>
+			<title>Includi.16</title>
+			<desc>&#60;&#60;include&#62;&#62;</desc>
+			<g id="shape16-30" v:mID="16" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="7.08661" cy="199.001" width="70.1" height="22.4037"/>
+				<path d="M6.15 163 L8.02 235" class="st7"/>
+				<rect v:rectContext="textBkgnd" x="-22.6001" y="191.801" width="59.3737" height="14.4001" class="st9"/>
+				<text x="-22.6" y="202.6" class="st10" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>&#60;&#60;include&#62;&#62;</text>			</g>
+		</g>
+	</g>
+</svg>
