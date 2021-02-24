@@ -1,0 +1,23 @@
+{
+  "name": "tpsit-notes",
+  "version": "1.0.0",
+  "description": "readme.md",
+  "main": "index.js",
+  "dependencies": {
+    "hugo-extended": "^0.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealgabryx/tpsit-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealgabryx/tpsit-notes/issues"
+  },
+  "homepage": "https://github.com/therealgabryx/tpsit-notes#readme"
+}
