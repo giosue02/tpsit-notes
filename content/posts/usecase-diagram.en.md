@@ -68,23 +68,23 @@ The child use case can add to or override the behaviour of the father.
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Generalization_2.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Generalization_2.svg)
 
-# <<include>> relationship
+# "include" relationship
 
-When a use case is described as a user of another use case, their relationship is called <<include>>.
+When a use case is described as a user of another use case, their relationship is called "include".
 
 A use case relationship is represented by a dotted line and an arrow. The tip indicates the child process, while the base is the parent.
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Include_3.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Include_3.svg)
 
-The <<include>> relationship adds functionality not specified in the use case. The included case is part of the behaviour of the one that includes it.
+The "include" relationship adds functionality not specified in the use case. The included case is part of the behaviour of the one that includes it.
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Include_1.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Include_1.svg)
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Include_2.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Include_2.svg)
 
-# <<extend>> relationship
+# "extend" relationship
 
-You write <<extend>> to identify an extension relationship between two use cases.
+You write "extend" to identify an extension relationship between two use cases.
 
 It is represented by a dotted arrow. At the tip of the arrow is the base case and at the base is the child use case.
 
@@ -92,13 +92,13 @@ In this case the use case "Invalid password" can include the behaviour specified
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Extend_3.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Extend_3.svg)
 
-The relationship <<extend>> shows optional functionality, it is used to include the behaviour of an optional use case (Search) in the base use case (Request a book).
+The relationship "extend" shows optional functionality, it is used to include the behaviour of an optional use case (Search) in the base use case (Request a book).
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Extend_1.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Extend_1.svg)
 
 ![Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Extend_2.svg](Use%20Case%20Diagram%2028433171f0d741f2a250a55c0f069d27/Extend_2.svg)
 
-# Difference between <<include>> and <<extend>>
+# Difference between "include" and "extend"
 
 Include: the action is always executed during the execution of the use case at the base of the arrow.
 
@@ -181,12 +181,12 @@ Finally, each use case must be given a meaningful name that summarises the funct
 Identify generalisation and extension relationships:
 
 - specialise use cases that have many alternative scenarios
-- linking new use cases to the original ones by means of generalisation or <<extend>> relationships
+- linking new use cases to the original ones by means of generalisation or "extend" relationships
 
 Identify inclusion relations:
 
 - identify common parts in different use cases
-- linking use cases sharing a common part to the new use case (representing the shared behaviour) by means of the <<include>> association
+- linking use cases sharing a common part to the new use case (representing the shared behaviour) by means of the "include" association
 
 # Examples of Use Case Diagrams
 
