@@ -68,23 +68,23 @@ Il figlio può aggiungere o sovrascrivere il comportamento del padre.
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Generalizzazione.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Generalizzazione.svg)
 
-# Relazione <<include>>
+# Relazione "include"
 
-Quando un caso d’uso viene descritto come utilizzatore di un altro caso d’uso, la loro relazione si chiama <<include>>.
+Quando un caso d’uso viene descritto come utilizzatore di un altro caso d’uso, la loro relazione si chiama "include".
 
 Una relazione d’uso è rappresentata da una linea tratteggiata e una freccia. La punta indica il processo figlio, mentre alla base si trova il padre.
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Include_3.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Include_3.svg)
 
-La relazione <<include>> aggiunge funzionalità non specificate nel caso d’uso. Il caso incluso fa parte del comportamento di quello che lo include.
+La relazione "include" aggiunge funzionalità non specificate nel caso d’uso. Il caso incluso fa parte del comportamento di quello che lo include.
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Include_1.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Include_1.svg)
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Include_2.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Include_2.svg)
 
-# Relazione <<extend>>
+# Relazione "extend"
 
-Si scrive <<extend>> per identificare una relazione di estensione tra due casi d’uso.
+Si scrive "extend" per identificare una relazione di estensione tra due casi d’uso.
 
 Viene raffigurata da una freccia tratteggiata. Alla punta della freccia troviamo il caso base e alla base viene indicato il caso d’uso figlio.
 
@@ -92,13 +92,12 @@ In questo caso il caso d’uso “Invalid password” può includere il comporta
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Extend_3.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Extend_3.svg)
 
-La relazione <<extend>> mostra funzionalità opzionali, viene usata per includere il comportamento di un caso d’uso facoltativo (Ricerca) in quello base (Richiede un libro).
+La relazione "extend" mostra funzionalità opzionali, viene usata per includere il comportamento di un caso d’uso facoltativo (Ricerca) in quello base (Richiede un libro).
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Extend_1.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Extend_1.svg)
 
 ![Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Extend_2.svg](Diagramma%20dei%20Casi%20d'Uso%20cf4f881d14bb4d1b9adf0c7824eb6e13/Extend_2.svg)
 
-# Differenza tra <<include>> ed <<extend>>
 
 Include: l’azione viene sempre eseguita durante l’esecuzione del caso d’uso alla base della freccia.
 
@@ -180,12 +179,12 @@ Infine bisogna assegnare a ogni caso d’uso un nome significativo che sintetizz
 Identificare le relazioni di generalizzazione e di estensione:
 
 - specializzare i casi d’uso che hanno molti scenari alternativi
-- collegare i nuovi casi d’uso a quelli di partenza mediante relazioni di generalizzazione o di <<extend>>
+- collegare i nuovi casi d’uso a quelli di partenza mediante relazioni di generalizzazione o di "extend"
 
 Identificare le relazioni di inclusione:
 
 - individuare parti comuni in casi d’uso diversi
-- collegare i casi d’uso che condividono una parte comune al nuovo caso d’uso (rappresentante il comportamento condiviso) mediante l’associazione <<include>>
+- collegare i casi d’uso che condividono una parte comune al nuovo caso d’uso (rappresentante il comportamento condiviso) mediante l’associazione "include"
 
 # Esempi di Diagrammi Di Casi d'Uso
 
