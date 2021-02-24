@@ -1,4 +1,18 @@
-# misc 
+# hugo
+
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+
+# misc
+
+.DS_Store
+node_modules
+dist
+tmp
 
 .firebaserc
 .github/
